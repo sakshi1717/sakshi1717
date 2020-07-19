@@ -1,11 +1,9 @@
-### Hi there 👋
-<html>
-  <head><title>My profile</title>
-  </head>
-  <body>
-    Welcome.
-    </body>
-    </html>
+### Hi there! 👋
+I am Sakshi Sharma . 
+ 🔭 I’m currently a final year B.Tech student .
+Some of the technologies I have worked with are Javascript , HTML , PHP , CSS , Andriod , Naive Bayes Classifier , Selenium Web Scrapper .
+Not a much open-source enthusiast but I am definitely looking forward to change my graph this year 😄.
+
 <!--
 **sakshi1717/sakshi1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
